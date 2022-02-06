@@ -1,0 +1,49 @@
+#h1{
+    color: brown;
+    font-family: 'Times New Roman';
+}
+.cc{
+    color: darkgreen;
+}
+#h3{
+    font-style: oblique;
+}
+#pp
+{
+    color: deeppink;
+    background-color: deepskyblue;
+}
+#pree{
+    border-color: greenyellow;
+    border-style: ridge;
+    color: dodgerblue;
+    font-size: xx-large;
+    background-color: grey;    
+}
+#ol{
+    color: indianred;
+    font-display: rights;
+}
+.li{
+    color: mediumblue;
+    font-weight: lighter;
+}
+#t{
+    color: mediumseagreen;
+    background-color: midnightblue;
+}
+#tr{
+    color: olivedrab;
+    background-color: orange;
+}
+.hi{
+    color: saddlebrown;
+    background-color: royalblue;
+}
+.by{
+    color: black;
+    background-color: silver;
+}
+#com{
+    background-color: coral;
+}
